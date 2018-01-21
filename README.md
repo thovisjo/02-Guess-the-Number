@@ -19,7 +19,7 @@ To complete this assignment you will need to understand:
 * How to [compare](https://www.tutorialspoint.com/python/comparison_operators_example.htm) two numbers in Python
 * How to [accept user input](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/io.html)
 
-I have given you a few lines of code to get started, but you will need to alter guess.py substantially to complete the assignment. Remember, I reserve points for creativity!
+I have given you a few lines of code to get started, but you will need to alter guess.py substantially to complete the assignment. Good luck!
 
 ---
 
