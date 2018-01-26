@@ -202,7 +202,7 @@ while(hours > 0 and not end):
                 elif(str.upper(scavOrGuess) == "QUIT"):
                      end = True
         if(provisions == 0):
-                hours -= random.randint(3, 6)
+                hours -= random.randint(2, 6)
                 hoursSTR = str(hours)
                 print("Due  to lack of food, you overslept. You only have " + hoursSTR + " hours today.")
         elif(provisions > 0):
